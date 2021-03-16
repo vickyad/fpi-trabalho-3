@@ -23,3 +23,6 @@ O trabalho envolve o estudo sobre manipulação de vídeos
 
 ![Espelhamento horizontal](https://i.imgur.com/yqvc1Tn.png)
 > Espelhamento horizontal do frame do vídeo
+
+### Vídeo de demonstração
+https://www.youtube.com/watch?v=khTlOnvnszI
